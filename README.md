@@ -2,6 +2,7 @@
 Or, a short foray into data wrangling
 
 Matthew Bennett
+
 August 19, 2020
 
 I took a crack at cleaning and presenting some basic findings of Cohen and Ng's Candy Hierarchy surveys from the Science Creative Quarterly (links: https://boingboing.net/2017/10/30/the-2017-halloween-candy-hiera.html and https://www.scq.ubc.ca/so-much-candy-data-seriously/). The Candy Hierarchy surveys ran yearly from 2014 to 2017, and the raw data can be acquired for every year but 2014 (for which only aggregate data is available).
